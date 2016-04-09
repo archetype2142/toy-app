@@ -19,5 +19,5 @@ To run the local server navigate to the installation directory and use<br>
 `rails server`
 
 
-The databse(mysqlite3) can be accessed by <br>
+The database(mysqlite3) can be accessed from the rails console using<br>
 `rails console`
