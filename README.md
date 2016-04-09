@@ -1,7 +1,7 @@
 #Toy App
 
 View the toy-app in action [here](http://ritwick-microposts-app.herokuapp.com/)
-The application opens in the users view, navigate to /microposts for the [microposts](http://ritwick-microposts-app.herokuapp.com/microposts)
+The application opens in the users view by default, navigate to /microposts for the [microposts](http://ritwick-microposts-app.herokuapp.com/microposts)
 <hr>
 
 This application uses rails <b>v 4.2.0</b> along with other dependencies mentionened in the [gemfile](https://github.com/archetype2142/toy-app/blob/master/Gemfile).
