@@ -16,5 +16,3 @@ To run the local server navigate to the installation directory and use
 
 The databse(mysqlite3) can be accessed by 
 <code>rails console</code>
-
-<tt>rake doc:app</tt>.
