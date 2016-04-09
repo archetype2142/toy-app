@@ -6,21 +6,17 @@ View the toy-app in action [here]('http://ritwick-microposts-app.herokuapp.com/'
 This application uses rails v 4.2.0 alond with other dependencies stated in the gemfile. 
 sqlite3, byebug and spring gems are only for development and testing purposes, for production postgress is being used which can be switched with any other database
 
-You need to migrate the database before using the program using rake 
-
+You need to migrate the database before using the program using rake<br>
 `bundle exec rake db:migrate`
 
 
-If using heroku, you can use
-
+If using heroku, you can use<br>
 `heroku run rake db:migrate`
     
 
-To run the local server navigate to the installation directory and use
-
+To run the local server navigate to the installation directory and use<br>
 `rails server`
 
 
-The databse(mysqlite3) can be accessed by 
-
+The databse(mysqlite3) can be accessed by <br>
 `rails console`
