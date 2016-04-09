@@ -1,9 +1,9 @@
 #Toy App
 
-View the toy-app in action [here]('http://ritwick-microposts-app.herokuapp.com/')
+View the toy-app in action [here](http://ritwick-microposts-app.herokuapp.com/)
 <hr>
 
-This application uses rails <b>v 4.2.0</b> along with other dependencies mentionened in the [gemfile]('https://github.com/archetype2142/toy-app/blob/master/Gemfile').
+This application uses rails <b>v 4.2.0</b> along with other dependencies mentionened in the [gemfile](https://github.com/archetype2142/toy-app/blob/master/Gemfile).
 sqlite3, byebug and spring gems are only for development and testing purposes, for production postgress is being used which can be switched with any other database
 
 You need to migrate the database before using the program using rake<br>
